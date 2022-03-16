@@ -110,3 +110,6 @@ text-align: left;
 table, th, td{
 border: 1px solid white;
 }
+img:onhover{
+z-index: 1;
+}
