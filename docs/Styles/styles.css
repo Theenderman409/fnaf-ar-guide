@@ -112,4 +112,7 @@ border: 1px solid white;
 }
 img:onhover{
 z-index: 1;
+position: fixed;
+top: 50%;
+height: 50%;
 }
