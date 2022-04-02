@@ -4,8 +4,6 @@
 <dict>
 <key>ConsentText</key>
 <dict>
-<key>default</key>
-<string></string>
 </dict>
  <key>PayloadContent</key>
  <array>
