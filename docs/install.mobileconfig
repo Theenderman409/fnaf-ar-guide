@@ -12,11 +12,11 @@
 				<key>IsRemovable</key>
 				<false />
 				<key>Label</key>
-				<string>FNaF ar guide</string>
+				<string>FNAF AR</string>
 				<key>PayloadDescription</key>
 				<string>Adds a Web Clip.</string>
 				<key>PayloadDisplayName</key>
-				<string>Web Clip (FNaF ar guide)</string>
+				<string>Web Clip (FNAF AR)</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.webClip.managed.c0c63ea6-dccd-4825-8ec2-52fbae2bb350</string>
 				<key>PayloadOrganization</key>
@@ -40,9 +40,9 @@
 		<key>PayloadDisplayName</key>
 		<string>FNaF ar guide installer</string>
 		<key>PayloadIdentifier</key>
-		<string>FNaF ar guide</string>
+		<string>FnafAr.htqwen4082hdnl</string>
 		<key>PayloadOrganization</key>
-		<string>Theenderman409</string>
+		<string>Theenderman409 Inc.</string>
 		<key>PayloadRemovalDisallowed</key>
 		<false />
 		<key>PayloadType</key>
